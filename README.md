@@ -32,6 +32,10 @@ The Don't Scream Audio Manager script provides functionality to manage microphon
 ## Dependencies
 - Unity 3D (compatible with Unity 20XX)
 - TextMeshPro (TMP) package for UI elements
+  
+## License
+
+This project is licensed under the Creative Commons Attribution 4.0 International Public License. You are free to use, distribute, remix, adapt, and build upon this work, even commercially, as long as you credit the original creator.
 
 ## Credits
 This script was developed by [Daniel Chakarov/Sleeping Impulse].
